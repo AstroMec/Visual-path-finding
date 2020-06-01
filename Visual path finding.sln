@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual path finding", "Visual path finding.csproj", "{9932A5E2-C4AC-4BB5-AD89-2DB1F429BB75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFindingTest", "..\PathFindingTest\PathFindingTest.csproj", "{2A271AD6-2FD6-4642-BCAD-E9F92E1B769D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Visual path finding installer", "..\Visual path finding installer\Visual path finding installer.vdproj", "{EB809D99-6654-4DB8-B0BF-6A810CA7EEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9932A5E2-C4AC-4BB5-AD89-2DB1F429BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9932A5E2-C4AC-4BB5-AD89-2DB1F429BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9932A5E2-C4AC-4BB5-AD89-2DB1F429BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9932A5E2-C4AC-4BB5-AD89-2DB1F429BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A271AD6-2FD6-4642-BCAD-E9F92E1B769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A271AD6-2FD6-4642-BCAD-E9F92E1B769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A271AD6-2FD6-4642-BCAD-E9F92E1B769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A271AD6-2FD6-4642-BCAD-E9F92E1B769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB809D99-6654-4DB8-B0BF-6A810CA7EEE9}.Debug|Any CPU.ActiveCfg = Debug
+		{EB809D99-6654-4DB8-B0BF-6A810CA7EEE9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95FBC7E-EAEF-4EEC-8374-63C8153FF42F}
+	EndGlobalSection
+EndGlobal

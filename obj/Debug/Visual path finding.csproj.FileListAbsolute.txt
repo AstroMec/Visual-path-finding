@@ -1,0 +1,11 @@
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\bin\Debug\Visual path finding.exe.config
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\bin\Debug\Visual path finding.exe
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\bin\Debug\Visual path finding.pdb
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual_path_finding.Properties.Resources.resources
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual path finding.csproj.GenerateResource.cache
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual path finding.csproj.CoreCompileInputs.cache
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual path finding.exe
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual path finding.pdb
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual_path_finding.Controls.WalkableSquare.resources
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual_path_finding.Forms.GridSize.resources
+C:\Users\maxgr\OneDrive\Documents\Projects\C#\Visual path finding\Visual path finding\obj\Debug\Visual_path_finding.MainScreen.resources
